@@ -1,7 +1,7 @@
 # Ux para Devs em times pequenos
 
 ![image1](https://github.com/VitorHugoAntunes/DoWhile2020---Desafio-03/blob/master/DoWhile2020_desafio03/img1.jpg)
-<br>
+<br><br>
 A imagem acima representa a UI de um site de vendas, uma interface simples onde foram aplicados os conceitos de UX no workshop de Ux para Devs em times pequenos, palestrado por Patrick Fantato.
 O design foi produzido pelo olhar de um desenvolvedor, não alcançando a qualidade de alguém especializado na área de UI/UX, porém com os conceitos citados na palestra foi possível chegar a um resultado satisfatório.
 Os conceitos são: <br>
